@@ -1,0 +1,19 @@
+{
+	"name": "tabtrim",
+	"version": "0.0.0.2",
+	"description": "Free your browsing space in a snap! Close empty tabs, search result page tabs and launch Zoom tabs with just a single click!",
+	"author": "Luciano Ayres",
+	"manifest_version": 3,
+	"icons": {
+		"16": "images/icon16.png",
+		"48": "images/icon48.png",
+		"128": "images/icon128.png"
+	},
+	"action": {
+		"default_title": "Click to close unused tabs"
+	},
+	"permissions": ["tabs"],
+	"background": {
+		"service_worker": "background.js"
+	}
+}
