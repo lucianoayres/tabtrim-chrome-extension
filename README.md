@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Tabtrim extension - before using it](https://user-images.githubusercontent.com/20209393/236681949-ab1547a2-b2b7-4f11-8159-60743e98bcfd.png)
+![Tabtrim extension - before using it](https://user-images.githubusercontent.com/20209393/236682615-ebec940c-1e45-43e9-b34e-9402065e24da.png)
 
 ![Tabtrim - after using it](https://user-images.githubusercontent.com/20209393/236681955-7acce75f-d1a3-4c0a-8920-4050da6f0fb5.png)
 
