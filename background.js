@@ -1,5 +1,3 @@
-const totalAffectedTabs = 0
-
 chrome.action.onClicked.addListener(async (tab) => {
 	chrome.tabs.query(
 		{
